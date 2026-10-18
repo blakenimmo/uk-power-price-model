@@ -1,0 +1,16 @@
+{
+  "half_hours": 17520,
+  "mean_price_gbp_mwh": 79.8,
+  "half_hours_negative_price": 488,
+  "share_negative_when_residual_below_10gw": 0.38,
+  "cv_r2_half_hourly": 0.55,
+  "cv_mae_half_hourly": 13.5,
+  "baseline_r2_month_mean_only": 0.07,
+  "baseline_mae": 22.5,
+  "cv_r2_daily_average": 0.72,
+  "price_drop_per_extra_gw_wind_gbp_mwh": 3.9,
+  "slope_at_12gw": 14.3,
+  "slope_at_22gw": 1.3,
+  "slope_at_38gw": 5.2,
+  "corr_price_residual": 0.66
+}
